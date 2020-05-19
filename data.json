@@ -1,0 +1,13 @@
+{
+    "fields": {
+       "project":
+       {
+          "key": "MAY"
+       },
+       "summary": "Bug ",
+       "description": "Created from restAssured File 0",
+       "issuetype": {
+          "name": "Bug"
+       }
+   }
+}
